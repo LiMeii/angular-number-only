@@ -16,6 +16,7 @@
 1. number only directive source code is in src/app/shared/directives/number-only-directive.ts
 
 2. import shared module in your feature module, in Demo is app.module
+
        `import { BrowserModule } from '@angular/platform-browser';
         import { NgModule } from '@angular/core';
 
