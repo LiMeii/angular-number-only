@@ -37,4 +37,5 @@
         export class AppModule { }`
 
 3. add numberOnly in input control
+
     `<input class="input__field js-input-field" numberOnly>`
