@@ -1,13 +1,13 @@
 # angular-number-only
 
-this is a directive in angular used to make sure only number in input textbox
-working for browser in pc and mobile device
-also support ctr+c ctr+v action from keyboard
+`onStart`: this is a directive in angular used to make sure only number in input textbox
+`onStart`: working for browser in pc and mobile device
+`onStart`: also support ctr+c ctr+v action from keyboard
 
 ## Description
 
-code based on angular6.1, should working for all angular2+ version
-download this project into your local, run 'npm install' first, then 'ng serve', then you can see the demo
+`onStart`: code based on angular6.1, should working for all angular2+ version
+`onStart`: download this project into your local, run 'npm install' first, then 'ng serve', then you can see the demo
 
 ## Usage
 1. number only directive source code is in src/app/shared/directives/number-only-directive.ts
@@ -34,4 +34,4 @@ download this project into your local, run 'npm install' first, then 'ng serve',
         export class AppModule { }
 
 3. add numberOnly in input control
-        <input class="input__field js-input-field" numberOnly>
+    <input class="input__field js-input-field" numberOnly>
