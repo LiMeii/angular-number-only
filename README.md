@@ -17,7 +17,7 @@
 
 2. import shared module in your feature module, in Demo is app.module
 
-       `import { BrowserModule } from '@angular/platform-browser';
+        import { BrowserModule } from '@angular/platform-browser';
         import { NgModule } from '@angular/core';
 
         import { SharedModule } from './shared/shared.module';
@@ -35,7 +35,7 @@
           providers: [],
           bootstrap: [AppComponent]
         })
-        export class AppModule { }`
+        export class AppModule { }
 
 3. add numberOnly in input control
 
